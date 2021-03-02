@@ -5,7 +5,11 @@
 * 健身
 * 游戏
 # 学习
-学习过`HTML`,`CSS`,`JavaScript`
+学习过:
+1. `HTML`
+2. `CSS`
+3. `JavaScript`
+可以访问我的[github](https://github.com/monody517)
 ```JavaScript
     var a = 1
     console.log(a)
